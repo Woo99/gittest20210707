@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-git update
+test2.jsp
+	git update
+	eclipse update
 </body>
 </html>
